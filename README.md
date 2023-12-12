@@ -89,6 +89,8 @@ In a similar faction, the income dashboard enable us to draw useful insight abou
 # Conclusion
 The Human Resource Manager can key into this analysis and the recommendations provided to improve the income and salary structure of the employees. Click [here](https://app.powerbi.com/groups/me/reports/ef7fe0ff-bc47-46f6-b251-cf3c2c8e4cd6?ctid=96c3451c-0db8-4f19-88af-5cb06c0a43fe&pbi_source=linkShare&bookmarkGuid=1c507c77-8d6a-4596-b7f8-1f4ab6ca05df) to access the dashboards for interactivity.
 
+# Thank you
+
 
 
 
