@@ -16,10 +16,11 @@ The dataset consists of 1471 records and 35 features stored in a  CSV File. The 
 # Data Cleaning/Preparation
 The following tasks were performed in the data wrangling stage
 - Data loading and inspection
-- Renaming of columns
+- Renaming the columns.
+- Dropping duplicates.
 - Handling missing and null values
 - Eliminate redundant data
-- Validating columns data types
+- Checking for some more Transformations
 # Data Modelling and Visualization
 Data Modelling was not created in this project because the dataset is stored in a single table. Creating data modelling is necessary when multiple tables are involved as it improves data quality and performance.
 
@@ -84,6 +85,10 @@ In a similar faction, the income dashboard enable us to draw useful insight abou
 - The organization should adopt policies to bridge the gap between the male and female employees
 - Measures should be put in place to increase the job satisfaction level of the employees
 - The company should revisit the working hours of the employees and make it more flexible for better performance.
-- Incentives and a rewarding system should be put in place to encourage hard working staff 
+- Incentives and a rewarding system should be put in place to encourage hard working staff
+# Conclusion
+The Human Resource Manager can key into this analysis and the recommendations provided to improve the income and salary structure of the employees. Click [here](https://app.powerbi.com/groups/me/reports/ef7fe0ff-bc47-46f6-b251-cf3c2c8e4cd6?ctid=96c3451c-0db8-4f19-88af-5cb06c0a43fe&pbi_source=linkShare&bookmarkGuid=1c507c77-8d6a-4596-b7f8-1f4ab6ca05df) to access the dashboards for interactivity.
+
+
 
 
