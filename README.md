@@ -56,3 +56,34 @@ Employee Average Age = AVERAGE('hr data'[Age])
 ```
 Total Income = SUM('hr data'[MonthlyIncome])
 ```
+Separate dashboards were created to extract insight from the employees and salary information. The employees dashboard enable us to extract significant information about the employees working in the organization. The dashboard is displayed below:
+
+![Employee View](https://github.com/DannyRukks/HR-Analytics-Report/assets/97890440/93cce697-e68d-42eb-b7d1-522c680dbeda)
+
+In a similar faction, the income dashboard enable us to draw useful insight about the staff salary of employees working in the organization and make informed decisions. The dashboard is displayed below:
+
+![Income view](https://github.com/DannyRukks/HR-Analytics-Report/assets/97890440/131b8b24-cdf5-443f-abfd-2bafffdac68a)
+
+# Insights
+### Here are some useful insights from the employees view
+- There are 1470 employees with 1233 being the active employees with an attrition rate of 16.12%.
+- The average age of an employee is 37 years.
+- The overall average performance of the employees is 3.15
+- 60% of the staff workforce are females while 40% of the staff workforce are males. Majority of the staff are married. 45.78% of the staff are married, 31.97% of the staff are single and 22.24% of the staff are divorced.
+- Majority of the staff have 0-5 years experience. Few staff have more than 20+ years of experience
+- Research and development department has the highest number of employees with a staff size of 828.
+  
+### Insights from the income view are presented below
+- The total income of the employee is approximately $9.56 million with an average income of $6.5 thousand.
+- A manage earned the highest salary which is around $20.00 thousand
+- The top 3 education field with the highest income are life sciences, medical and marketing
+- Average income of an employee with less than 20 years of experience is approximately $2.7 thousand. This income increases with an increase in the years of experience.
+- The top 5 job roles with the highest income are managers, research directors, health care representative, manufacturing director and sales executives.
+# Recommendations
+- The organization should set up policies that will improve employee retention especially employees that have spent more than ten years working with the company.
+- The organization should adopt policies to bridge the gap between the male and female employees
+- Measures should be put in place to increase the job satisfaction level of the employees
+- The company should revisit the working hours of the employees and make it more flexible for better performance.
+- Incentives and a rewarding system should be put in place to encourage hard working staff 
+
+
