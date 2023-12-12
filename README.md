@@ -20,3 +20,6 @@ The following tasks were performed in the data wrangling stage
 - Handling missing and null values
 - Eliminate redundant data
 - Validating columns data types
+# Data Modelling and Visualization
+Data Modelling was not created in this project because the dataset is stored in a single table. Creating data modelling is necessary when multiple tables are involved as it improves data quality and performance. 
+
