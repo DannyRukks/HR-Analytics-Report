@@ -21,5 +21,38 @@ The following tasks were performed in the data wrangling stage
 - Eliminate redundant data
 - Validating columns data types
 # Data Modelling and Visualization
-Data Modelling was not created in this project because the dataset is stored in a single table. Creating data modelling is necessary when multiple tables are involved as it improves data quality and performance. 
+Data Modelling was not created in this project because the dataset is stored in a single table. Creating data modelling is necessary when multiple tables are involved as it improves data quality and performance.
 
+![Data modelling view](https://github.com/DannyRukks/HR-Analytics-Report/assets/97890440/f5474a36-82f7-4eb4-8aa9-9f5ba44f412b)
+
+In order to extract insights and patterns from the dataset, The measures below were created and metrics as displayed below:
+```
+Total Number of Employees = COUNTROWS('hr data')
+```
+```
+Attrition Count = COUNTROWS(FILTER(
+    'hr data',
+    'hr data'[Attrition] = "Yes"))
+```
+```
+Active Employees = [Total Number of Employees] - [Attrition Count]
+```
+```
+Average Employee Performance = AVERAGE('hr data'[PerformanceRating])
+```
+```
+Average Salary = AVERAGE('hr data'[MonthlyIncome])
+```
+```
+Employee Average Age = AVERAGE('hr data'[Age])
+```
+```
+Attrition Rate = DIVIDE(
+    [Attrition Count], [Total Number of Employees])
+```
+```
+Employee Average Age = AVERAGE('hr data'[Age])
+```
+```
+Total Income = SUM('hr data'[MonthlyIncome])
+```
